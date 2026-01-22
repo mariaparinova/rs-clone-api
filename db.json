@@ -1,8 +1,8 @@
 {
   "authors": [
-    { "id": "1", "name": "Иван Иванов" }
+    { "id": "1", "name": "John Smith" }
   ],
   "works": [
-    { "id": "1", "authorId": "1", "title": "Великий код", "year": 2024 }
+    { "id": "1", "authorId": "1", "title": "The space", "year": 2024 }
   ]
 }
